@@ -1,0 +1,4 @@
+*.exe
+*.pyc
+testinput.txt
+test.py
